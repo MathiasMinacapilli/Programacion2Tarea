@@ -1,0 +1,74 @@
+1>#  pruebas para cola_prioridad.
+2>Insertado en cp.
+3>50.
+4>cp NO está vacia.
+5>cp NO está llena.
+6>(1,a).
+7>40.
+8>Insertado en cp.
+9>50.
+10>(2,b).
+11>10.
+12>Hay prioridad.
+13>Hay prioridad.
+14>Insertado en cp.
+15>Insertado en cp.
+16>Insertado en cp.
+17>Insertado en cp.
+18>Insertado en cp.
+19>Hay prioridad.
+20>Hay prioridad.
+21>Hay prioridad.
+22>Priorizado.
+23>(2,b).
+24>5.
+25>Insertado en cp.
+26>Insertado en cp.
+27>(1,i).
+28>1.
+29>Priorizado.
+30>No hay prioridad.
+31>Hay prioridad.
+32>Priorizado.
+33>No hay prioridad.
+34>Hay prioridad.
+35>(1,i).
+36>0.
+37>cp NO está llena.
+38>50.
+39>Eliminado el prioritario de cp.
+40>(2,b).
+41>5.
+42>Despriorizado.
+43>No hay prioridad.
+44>Hay prioridad.
+45>(20,h).
+46>10.
+47>Priorizado.
+48>No hay prioridad.
+49>Hay prioridad.
+50>Despriorizado.
+51>No hay prioridad.
+52>Hay prioridad.
+53>Priorizado.
+54>No hay prioridad.
+55>Hay prioridad.
+56>50.
+57>10.
+58>Eliminado el prioritario de cp.
+59>12.
+60>Eliminado el prioritario de cp.
+61>18.
+62>Eliminado el prioritario de cp.
+63>25.
+64>Eliminado el prioritario de cp.
+65>27.
+66>Eliminado el prioritario de cp.
+67>30.
+68>Eliminado el prioritario de cp.
+69>37.
+70>Eliminado el prioritario de cp.
+71>40.
+72>Eliminado el prioritario de cp.
+73>cp está vacia.
+74>Fin.

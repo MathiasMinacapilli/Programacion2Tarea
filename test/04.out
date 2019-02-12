@@ -1,0 +1,159 @@
+1>#  pruebas para cola_prioridad.
+2>50.
+3>cp está vacia.
+4>cp NO está llena.
+5>No hay prioridad.
+6>No hay prioridad.
+7>No hay prioridad.
+8>No hay prioridad.
+9>Insertado en cp.
+10>(1,a).
+11>50.
+12>cp NO está vacia.
+13>cp NO está llena.
+14>Eliminado el prioritario de cp.
+15>cp está vacia.
+16>Insertado en cp.
+17>cp NO está vacia.
+18>Hay prioridad.
+19>Valor no válido.
+20>Insertado en cp.
+21>Hay prioridad.
+22>Hay prioridad.
+23>(2,b).
+24>1.
+25>Priorizado.
+26>Hay prioridad.
+27>No hay prioridad.
+28>(2,b).
+29>0.
+30>No hay prioridad.
+31>Priorizado.
+32>Hay prioridad.
+33>No hay prioridad.
+34>#  pasaria a 25 y ya hay.
+35>Valor no válido.
+36>Priorizado.
+37>Hay prioridad.
+38>No hay prioridad.
+39>Despriorizado.
+40>Hay prioridad.
+41>No hay prioridad.
+42>(1,a).
+43>12.
+44>Eliminado el prioritario de cp.
+45>(2,b).
+46>25.
+47>Insertado en cp.
+48>Insertado en cp.
+49>Insertado en cp.
+50>Insertado en cp.
+51>Insertado en cp.
+52>25.
+53>Insertado en cp.
+54>14.
+55>Insertado en cp.
+56>10.
+57>Insertado en cp.
+58>5.
+59>cp NO está llena.
+60>Insertado en cp.
+61>cp está llena.
+62>1.
+63>#  estaba en la ultima posicion y sigue ahi.
+64>Despriorizado.
+65>Hay prioridad.
+66>#  estaba en la primera posicion y sigue ahi.
+67>Priorizado.
+68>Hay prioridad.
+69>Eliminado el prioritario de cp.
+70>Priorizado.
+71>5.
+72>Eliminado el prioritario de cp.
+73>10.
+74>Eliminado el prioritario de cp.
+75>14.
+76>Eliminado el prioritario de cp.
+77>24.
+78>Eliminado el prioritario de cp.
+79>25.
+80>Eliminado el prioritario de cp.
+81>30.
+82>Eliminado el prioritario de cp.
+83>35.
+84>Eliminado el prioritario de cp.
+85>40.
+86>Eliminado el prioritario de cp.
+87>47.
+88>cp NO está vacia.
+89>Eliminado el prioritario de cp.
+90>cp está vacia.
+91>#  Fin.
+92>#  pruebas para tabla.
+93>t NO está llena.
+94>NO existe asociación en t.
+95>Asociado.
+96>Existe asociación en t.
+97>diez.
+98>Desasociado.
+99>NO existe asociación en t.
+100>Asociado.
+101>Asociado.
+102>diez-bis.
+103>Asociado.
+104>Asociado.
+105>Asociado.
+106>Asociado.
+107>Asociado.
+108>Asociado.
+109>Asociado.
+110>veintitres.
+111>veintitres.
+112>veintitres.
+113>sesentaydos.
+114>setentaycinco.
+115>ochentayocho.
+116>cientrotreinta.
+117>Asociado.
+118>Asociado.
+119>Asociado.
+120>Asociado.
+121>Asociado.
+122>Asociado.
+123>cero-bis.
+124>doce-bis.
+125>trece.
+126>veinticinco.
+127>t NO está llena.
+128>Asociado.
+129>t está llena.
+130>Desasociado.
+131>t NO está llena.
+132>NO existe asociación en t.
+133>Asociado.
+134>t está llena.
+135>Desasociado.
+136>Desasociado.
+137>Desasociado.
+138>Desasociado.
+139>Desasociado.
+140>Desasociado.
+141>Desasociado.
+142>Desasociado.
+143>Desasociado.
+144>Desasociado.
+145>Desasociado.
+146>Desasociado.
+147>Desasociado.
+148>#  Fin.
+149>#  pruebas de mayores.
+150>
+151>(2,a)
+152>(2,a)
+153>
+154>
+155>(2,z)
+156>(3,z)
+157>(3,z)
+158>(3,c)(4,i)(5,e)(9,a)(10,h)
+159>Fin.

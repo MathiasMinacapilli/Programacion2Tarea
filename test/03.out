@@ -1,0 +1,280 @@
+1>#  pruebas para crear_balanceado.
+2>
+3>
+(4,a)
+4>
+-(3,c)
+(2,b)
+-(4,a)
+5>
+-(7,d)
+(3,c)
+-(2,b)
+--(4,a)
+6>
+---(7,o)
+--(1,n)
+---(5,m)
+-(1,l)
+---(3,k)
+--(2,j)
+---(4,i)
+(1,h)
+---(7,g)
+--(1,f)
+---(5,e)
+-(1,d)
+---(3,c)
+--(2,b)
+---(4,a)
+7>
+---(2,p)
+--(7,o)
+---(1,n)
+-(5,m)
+---(1,l)
+--(3,k)
+---(2,j)
+(4,i)
+---(1,h)
+--(7,g)
+---(1,f)
+-(5,e)
+---(1,d)
+--(3,c)
+---(2,b)
+----(4,a)
+8>#  Fin.
+9>#  pruebas para pila.
+10>p está vacía.
+11>p está vacía.
+12>p está vacia.
+13>p NO está llena.
+14>Apilado.
+15>uno.
+16>p NO está vacia.
+17>p NO está llena.
+18>Desapilado.
+19>Apilado.
+20>Apilado.
+21>Apilado.
+22>Apilado.
+23>Apilado.
+24>Desapilado.
+25>cuatro.
+26>Desapilado.
+27>tres.
+28>Apilado.
+29>Apilado.
+30>Apilado.
+31>Apilado.
+32>Apilado.
+33>Apilado.
+34>nueve.
+35>p NO está vacia.
+36>p NO está llena.
+37>Apilado.
+38>diez.
+39>p NO está vacia.
+40>p está llena.
+41>p está llena.
+42>Desapilado.
+43>nueve.
+44>p NO está vacia.
+45>p NO está llena.
+46>Desapilado.
+47>Desapilado.
+48>Desapilado.
+49>Desapilado.
+50>Desapilado.
+51>Desapilado.
+52>Desapilado.
+53>Desapilado.
+54>uno.
+55>p NO está vacia.
+56>p NO está llena.
+57>Desapilado.
+58>p está vacía.
+59>p está vacia.
+60>p NO está llena.
+61>#  Fin.
+62>#  pruebas para cola_binarios.
+63>cb está vacía.
+64>cb está vacia.
+65>cb está vacía.
+66>Encolado.
+67>
+-(3,c)
+(2,b)
+-(4,a)
+68>cb NO está vacia.
+69>Desencolado.
+70>cb está vacia.
+71>Encolado.
+72>Encolado.
+73>Encolado.
+74>Encolado.
+75>
+-(3,c)
+(2,b)
+-(4,a)
+76>cb NO está vacia.
+77>Desencolado.
+78>
+(9,e)
+-(1,d)
+79>Desencolado.
+80>
+(6,f)
+81>Desencolado.
+82>cb NO está vacia.
+83>
+-(10,j)
+(0,i)
+-(7,h)
+--(5,g)
+84>Desencolado.
+85>cb está vacia.
+86>#  Fin.
+87>#  pruebas para imprimir_niveles.
+88>Estructuras reiniciadas.
+89>
+90>Insertado.
+91>h 
+92>Insertado.
+93>Insertado.
+94>d l 
+h 
+95>Insertado.
+96>Insertado.
+97>a 
+b 
+d l 
+h 
+98>Insertado.
+99>Insertado.
+100>a p 
+b o 
+d l 
+h 
+101>Insertado.
+102>Insertado.
+103>Insertado.
+104>Insertado.
+105>Insertado.
+106>Insertado.
+107>Insertado.
+108>Insertado.
+109>a c e g i k m p 
+b f j o 
+d l 
+h 
+110>Insertado.
+111>n 
+a c e g i k m p 
+b f j o 
+d l 
+h 
+112>#  Fin.
+113>#  pruebas para esta_ordenada_por_frase.
+114>Ordenada.
+115>Ordenada.
+116>Ordenada.
+117>No ordenada.
+118>No ordenada.
+119>No ordenada.
+120>#  Fin.
+121>#  pruebas para iterador.
+122>Actual de it NO está definida.
+123>Reiniciado.
+124>Actual de it NO está definida.
+125>Avanzado.
+126>Actual de it NO está definida.
+127>
+128>Agregado.
+129>Actual de it NO está definida.
+130>Avanzado.
+131>Actual de it NO está definida.
+132>(0,asd)
+133>Actual de it NO está definida.
+134>Reiniciado.
+135>asd.
+136>No hay siguiente.
+137>Avanzado.
+138>Actual de it NO está definida.
+139>(0,asd)
+140>Actual de it NO está definida.
+141>Agregado.
+142>Actual de it NO está definida.
+143>Reiniciado.
+144>asd.
+145>Hay siguiente.
+146>Avanzado.
+147>zxc.
+148>No hay siguiente.
+149>(0,asd)(0,zxc)
+150>#  Fin.
+151>#  pruebas para conjunto.
+152>cnj está vacio.
+153>No pertenece.
+154>Excluido.
+155>
+156>Se incluyó.
+157>cnj NO está vacio.
+158>No pertenece.
+159>Pertenece.
+160>(0,b)
+161>(0,g)(0,h)(0,i)(0,j)
+162>(0,g)(0,h)(0,i)(0,j)
+163>(0,g)(0,h)(0,i)(0,j)
+164>(0,b)(0,g)(0,h)(0,i)(0,j)(0,l)
+165>Estructuras reiniciadas.
+166>
+167>(0,b)(0,g)(0,l)
+168>
+169>
+170>(0,g)(0,h)(0,i)(0,j)
+171>
+172>(0,g)(0,h)(0,i)(0,j)
+173>(0,g)
+174>(0,h)(0,i)(0,j)
+175>#  Fin.
+176>#  pruebas para inverso_de_iter.
+177>Estructuras reiniciadas.
+178>
+179>Agregado.
+180>Agregado.
+181>Agregado.
+182>Agregado.
+183>Reiniciado.
+184>Avanzado.
+185>d.
+186>a 
+187>d a 
+188>k f d a 
+189>k f d a 
+190>f d 
+191>f 
+192>
+193>a.
+194>#  Fin.
+195>#  pruebas para rango_en_conjunto.
+196>Estructuras reiniciadas.
+197>
+198>Se incluyó.
+199>a 
+200>a 
+201>
+202>Se incluyó.
+203>z a 
+204>a 
+205>z 
+206>Se incluyó.
+207>Se incluyó.
+208>Se incluyó.
+209>zz z m d a 
+210>z m d 
+211>z m d 
+212>z m 
+213>m 
+214>Fin.

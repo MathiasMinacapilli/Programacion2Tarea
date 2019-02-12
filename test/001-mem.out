@@ -1,0 +1,207 @@
+1>#  árbol vacio.
+2>
+3>Vacio.
+4>AVL.
+5>0.
+6>0.
+7>
+8>sub es vacío.
+9>
+10>NO removido.
+11>b es vacío.
+12>b es vacío.
+13>b es vacío.
+14>b es vacío.
+15>
+16>#  Fin.
+17>#  árbol con 1 elemento.
+18>Insertado.
+19>No insertado.
+20>
+(5,g)
+21>No vacío.
+22>AVL.
+23>1.
+24>1.
+25>(5,g)
+26>sub es vacío.
+27>(5,g)
+28>
+(5,g)
+29>
+(5,g)
+30>(5,g)
+31>
+32>
+33>NO removido.
+34>(5,g)
+35>Insertado.
+36>Removido.
+37>
+38>#  Fin.
+39>#  arbol con 11 elementos.
+40>Insertado.
+41>1.
+42>1.
+43>AVL.
+44>(5,g)
+45>(5,g)
+46>
+47>
+48>Insertado.
+49>Insertado.
+50>2.
+51>3.
+52>AVL.
+53>(4,c)(5,g)(7,k)
+54>(5,g)
+55>
+(4,c)
+56>
+(7,k)
+57>Insertado.
+58>Insertado.
+59>Insertado.
+60>4.
+61>6.
+62>No AVL.
+63>(3,b)(4,c)(5,g)(8,h)(8,i)(7,k)
+64>(5,g)
+65>
+(4,c)
+-(3,b)
+66>
+(7,k)
+-(8,i)
+--(8,h)
+67>Insertado.
+68>Insertado.
+69>4.
+70>8.
+71>AVL.
+72>(3,b)(4,c)(5,g)(8,h)(8,i)(7,k)(4,m)(6,p)
+73>(5,g)
+74>
+(4,c)
+-(3,b)
+75>
+-(6,p)
+--(4,m)
+(7,k)
+-(8,i)
+--(8,h)
+76>Insertado.
+77>Insertado.
+78>Insertado.
+79>4.
+80>11.
+81>AVL.
+82>(9,a)(3,b)(4,c)(2,d)(1,e)(5,g)(8,h)(8,i)(7,k)(4,m)(6,p)
+83>(5,g)
+84>
+-(1,e)
+--(2,d)
+(4,c)
+-(3,b)
+--(9,a)
+85>
+-(6,p)
+--(4,m)
+(7,k)
+-(8,i)
+--(8,h)
+86>
+--(6,p)
+---(4,m)
+-(7,k)
+--(8,i)
+---(8,h)
+(5,g)
+--(1,e)
+---(2,d)
+-(4,c)
+--(3,b)
+---(9,a)
+87>#  Fin.
+88>#  remover.
+89>(6,p)
+90>(4,m)
+91>(7,k)
+92>(8,i)
+93>(8,h)
+94>
+(5,g)
+--(1,e)
+---(2,d)
+-(4,c)
+--(3,b)
+---(9,a)
+95>NO removido.
+96>Removido.
+97>Removido.
+98>Removido.
+99>
+-(1,e)
+--(2,d)
+(9,a)
+100>#  Fin.
+101>#  buscar_subarbol, kesimo_en_binario, filtrado.
+102>Estructuras reiniciadas.
+103>Insertado.
+104>(5,g)
+105>Insertado.
+106>(5,g)(7,k)
+107>Insertado.
+108>Insertado.
+109>Insertado.
+110>Insertado.
+111>Insertado.
+112>Insertado.
+113>(9,a)(3,b)(4,c)(2,d)(1,e)(5,g)(8,i)(7,k)
+114>Insertado.
+115>Insertado.
+116>Insertado.
+117>(4,c)
+118>(1,e)
+119>sub es vacío.
+120>(7,k)
+121>(6,p)
+122>(5,g)
+123>(9,a).
+124>(4,c).
+125>(1,e).
+126>(8,h).
+127>(7,k).
+128>(6,p).
+129>(9,a)(3,b)(4,c)(2,d)(1,e)(5,g)(8,h)(8,i)(7,k)(4,m)(6,p)
+130>
+-(4,m)
+(1,e)
+--(2,d)
+-(4,c)
+--(3,b)
+131>
+(1,e)
+-(2,d)
+132>
+--(6,p)
+---(4,m)
+-(7,k)
+(5,g)
+--(1,e)
+---(2,d)
+-(4,c)
+--(3,b)
+133>
+--(6,p)
+---(4,m)
+-(7,k)
+--(8,i)
+---(8,h)
+(5,g)
+--(1,e)
+---(2,d)
+-(4,c)
+--(3,b)
+---(9,a)
+134>Fin.

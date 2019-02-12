@@ -1,0 +1,122 @@
+1>#  prueba de crear_cadena y liberar_cadena.
+2>#  prueba de es_vacia_cadena, insertar_al_final, imprimir_cadena.
+3>cad vacia.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>(1,b)(2,c)(3,d)
+8>cad no vacia.
+9>#  prueba de es_localizador, localizador_en_cadena, precede_en_cadena, incicio_cadena, final_cadena, kesimo, info_cadena.
+10>loc no válido.
+11>loc no pertenece a cad.
+12>loc al inicio.
+13>loc válido.
+14>loc pertenece a cad.
+15>loc1 precede a loc.
+16>loc al final.
+17>loc válido.
+18>loc pertenece a cad.
+19>Posición fuera de rango.
+20>loc en la posición 1.
+21>loc en la posición 0.
+22>loc no válido.
+23>loc no pertenece a cad.
+24>loc en la posición 4.
+25>loc no válido.
+26>loc no pertenece a cad.
+27>#  prueba de siguiente, anterior.
+28>loc al inicio.
+29>loc al siguiente.
+30>loc al anterior.
+31>loc al anterior.
+32>loc no válido.
+33>loc no pertenece a cad.
+34>loc al final.
+35>loc al anterior.
+36>loc al siguiente.
+37>loc al siguiente.
+38>loc no válido.
+39>loc no pertenece a cad.
+40>#  prueba de es_inicio_cadena, es_final_cadena.
+41>loc al inicio.
+42>loc es incio de cad.
+43>loc no es final de cad.
+44>loc al final.
+45>loc no es incio de cad.
+46>loc es final de cad.
+47>#  prueba de remover_de_cadena.
+48>Insertado al final.
+49>loc en la posición 3.
+50>Removido.
+51>loc al inicio.
+52>Removido.
+53>loc al final.
+54>Removido.
+55>#  prueba de insertar_antes.
+56>loc al final.
+57>Insertado antes de loc.
+58>loc al inicio.
+59>Insertado antes de loc.
+60>Insertado antes de loc.
+61>#  prueba de cambiar_en_cadena, intercambiar.
+62>loc en la posición 2.
+63>Cambio.
+64>Intercambio.
+65>#  prueba de menor_en_cadena, siguiente_clave, anterior_clave.
+66>loc al inicio.
+67>loc avanzó hasta el menor.
+68>loc al siguiente.
+69>loc avanzó hasta el menor.
+70>loc retrocedió buscando 1.
+71>loc al final.
+72>loc retrocedió buscando 4.
+73>loc retrocedió buscando 2.
+74>loc válido.
+75>#  prueba de insertar_segmento_despues, segmento_cadena, separar_segmento.
+76>Estructuras reiniciadas.
+77>Segmento insertado después de loc.
+78>
+79>
+80>Segmento insertado después de loc.
+81>Localizador no válido.
+82>Localizador no válido.
+83>loc al final.
+84>Segmento insertado después de loc.
+85>(5,f)
+86>Posiciones fuera de rango.
+87>Posiciones fuera de rango.
+88>(5,f)
+89>(0,a)
+90>#  prueba de esta_ordenada, mezcla.
+91>cad ordenada.
+92>Insertado al final.
+93>Segmento insertado después de loc.
+94>cad no ordenada.
+95>Cadena no ordenada.
+96>Cadena no ordenada.
+97>Estructuras reiniciadas.
+98>
+99>(1,b)(2,c)(3,c)(4,f)
+100>#  prueba de pertenece, longitud, cambiar_todos.
+101>Estructuras reiniciadas.
+102>Insertado al final.
+103>Longitud: 1
+104>1 pertenece a cad.
+105>10 no pertenece a cad.
+106>#  prueba de cambiar_todos.
+107>Insertado al final.
+108>Cambiados.
+109>#  prueba de son_iguales.
+110>No son iguales.
+111>Insertado al final.
+112>No son iguales.
+113>#  prueba de concatenar.
+114>Estructuras reiniciadas.
+115>
+116>(1,b)(5,f)
+117>#  prueba de ordenar.
+118>Segmento insertado después de loc.
+119>Ordenada.
+120>#  prueba de subcadena.
+121>(3,d)
+122>Fin.

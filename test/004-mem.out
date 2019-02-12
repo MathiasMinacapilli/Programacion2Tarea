@@ -1,0 +1,125 @@
+1>#  pruebas para cola_prioridad.
+2>cp está vacia.
+3>Insertado en cp.
+4>Insertado en cp.
+5>Insertado en cp.
+6>Insertado en cp.
+7>Insertado en cp.
+8>Insertado en cp.
+9>Insertado en cp.
+10>Insertado en cp.
+11>Insertado en cp.
+12>Insertado en cp.
+13>cp está llena.
+14>1.
+15>Eliminado el prioritario de cp.
+16>6.
+17>Eliminado el prioritario de cp.
+18>12.
+19>Eliminado el prioritario de cp.
+20>18.
+21>Eliminado el prioritario de cp.
+22>24.
+23>Eliminado el prioritario de cp.
+24>25.
+25>Eliminado el prioritario de cp.
+26>31.
+27>Eliminado el prioritario de cp.
+28>37.
+29>Eliminado el prioritario de cp.
+30>43.
+31>Eliminado el prioritario de cp.
+32>50.
+33>Eliminado el prioritario de cp.
+34>cp NO está llena.
+35>cp está vacia.
+36>Insertado en cp.
+37>Insertado en cp.
+38>Priorizado.
+39>Valor no válido.
+40>Priorizado.
+41>Despriorizado.
+42>(50,z).
+43>12.
+44>Priorizado.
+45>Despriorizado.
+46>(50,z).
+47>6.
+48>Priorizado.
+49>Despriorizado.
+50>(50,z).
+51>3.
+52>Priorizado.
+53>Despriorizado.
+54>(50,z).
+55>1.
+56>Eliminado el prioritario de cp.
+57>(1,a).
+58>46.
+59>Eliminado el prioritario de cp.
+60>#  pruebas para tabla.
+61>Asociado.
+62>Asociado.
+63>Asociado.
+64>Asociado.
+65>Asociado.
+66>Asociado.
+67>Asociado.
+68>Asociado.
+69>Asociado.
+70>Asociado.
+71>Asociado.
+72>Asociado.
+73>Asociado.
+74>Asociado.
+75>Asociado.
+76>Asociado.
+77>t esta llena.
+78>t esta llena.
+79>t esta llena.
+80>t esta llena.
+81>t está llena.
+82>aa.
+83>b.
+84>cc.
+85>d.
+86>e.
+87>f.
+88>g.
+89>hh.
+90>i.
+91>j.
+92>k.
+93>l.
+94>m.
+95>No existe asociación en t.
+96>Desasociado.
+97>Desasociado.
+98>Desasociado.
+99>NO existe asociación en t.
+100>NO existe asociación en t.
+101>NO existe asociación en t.
+102>Existe asociación en t.
+103>Existe asociación en t.
+104>Desasociado.
+105>Desasociado.
+106>Desasociado.
+107>Desasociado.
+108>Desasociado.
+109>Desasociado.
+110>Desasociado.
+111>NO existe asociación en t.
+112>NO existe asociación en t.
+113>Existe asociación en t.
+114>Existe asociación en t.
+115>Desasociado.
+116>Desasociado.
+117>Desasociado.
+118>t NO está llena.
+119>#  pruebas de mayores.
+120>(1,a)
+121>(10,j)
+122>(9,i)(10,j)
+123>(1,z)
+124>(9,i)(10,t)
+125>Fin.

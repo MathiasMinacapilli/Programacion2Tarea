@@ -1,0 +1,206 @@
+1>#  árbol vacio.
+2>
+3>Vacio.
+4>AVL.
+5>0.
+6>0.
+7>
+8>sub es vacío.
+9>
+10>NO removido.
+11>b es vacío.
+12>
+13>#  Fin.
+14>#  árbol con 1 elemento.
+15>Insertado.
+16>No insertado.
+17>
+(12,m)
+18>No vacío.
+19>AVL.
+20>1.
+21>1.
+22>(12,m)
+23>sub es vacío.
+24>(12,m)
+25>
+26>
+(12,m)
+27>(12,m)
+28>
+29>
+30>NO removido.
+31>(12,m)
+32>Insertado.
+33>Removido.
+34>
+35>#  Fin.
+36>#  insertar_en_binario, altura_binario, cantidad_binario.
+37>Insertado.
+38>Insertado.
+39>Insertado.
+40>Insertado.
+41>Insertado.
+42>No insertado.
+43>No insertado.
+44>No insertado.
+45>No insertado.
+46>No insertado.
+47>4.
+48>5.
+49>
+(12,m)
+---(10,i)
+--(8,g)
+---(6,e)
+-(5,d)
+50>#  Fin.
+51>#  remover_mayor.
+52>(12,m)
+53>(10,i)
+54>(8,g)
+55>
+-(6,e)
+(5,d)
+56>#  Fin.
+57>#  remover_de_binario.
+58>Estructuras reiniciadas.
+59>Insertado.
+60>Insertado.
+61>Insertado.
+62>Insertado.
+63>Insertado.
+64>NO removido.
+65>NO removido.
+66>NO removido.
+67>NO removido.
+68>Removido.
+69>Removido.
+70>Removido.
+71>
+-(10,i)
+(6,e)
+72>#  Fin.
+73>#  es_AVL.
+74>Estructuras reiniciadas.
+75>Insertado.
+76>AVL.
+77>Insertado.
+78>AVL.
+79>Insertado.
+80>No AVL.
+81>Insertado.
+82>AVL.
+83>Insertado.
+84>Insertado.
+85>No AVL.
+86>Insertado.
+87>AVL.
+88>
+--(16,r)
+-(14,o)
+(12,m)
+--(8,g)
+-(7,f)
+--(5,d)
+---(3,b)
+89>#  Fin.
+90>#  raiz, izquierdo, derecho.
+91>(12,m)
+92>
+-(8,g)
+(7,f)
+-(5,d)
+--(3,b)
+93>
+-(16,r)
+(14,o)
+94>(16,r)
+95>(14,o)
+96>(12,m)
+97>
+-(8,g)
+(7,f)
+-(5,d)
+--(3,b)
+98>
+99>(12,m)
+100>(7,f)
+101>
+(5,d)
+-(3,b)
+102>
+(8,g)
+103>Removido.
+104>Removido.
+105>(7,f)
+106>
+107>
+(8,g)
+108>
+-(8,g)
+(7,f)
+109>#  Fin.
+110>#  buscar_subarbol, kesimo_en_binario, linealizacion.
+111>Estructuras reiniciadas.
+112>Insertado.
+113>(12,m)
+114>Insertado.
+115>(5,d)(12,m)
+116>Insertado.
+117>Insertado.
+118>Insertado.
+119>Insertado.
+120>sub es vacío.
+121>(5,d)
+122>(6,e)
+123>(10,i)
+124>(15,p)
+125>sub es vacío.
+126>(5,d).
+127>(6,e).
+128>(8,g).
+129>(10,i).
+130>(12,m).
+131>(15,p).
+132>(5,d)(6,e)(8,g)(10,i)(12,m)(15,p)
+133>
+-(15,p)
+(12,m)
+---(10,i)
+--(8,g)
+---(6,e)
+-(5,d)
+134>#  Fin.
+135>#  filtrado.
+136>Estructuras reiniciadas.
+137>Insertado.
+138>Insertado.
+139>Insertado.
+140>Insertado.
+141>Insertado.
+142>Insertado.
+143>Insertado.
+144>Insertado.
+145>Insertado.
+146>Insertado.
+147>Insertado.
+148>
+-(4,m)
+(1,e)
+--(2,d)
+-(4,c)
+--(3,b)
+149>
+--(6,p)
+---(4,m)
+-(7,k)
+--(8,i)
+---(8,h)
+(5,g)
+--(1,e)
+---(2,d)
+-(4,c)
+--(3,b)
+---(9,a)
+150>Fin.

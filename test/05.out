@@ -1,0 +1,54 @@
+1>#  pruebas para prioritario,prioridad_prioritario,priorizar,hay_prioridad, despriorizar.
+2>cp está vacia.
+3>cp NO está llena.
+4>No hay prioridad.
+5>No hay prioridad.
+6>No hay prioridad.
+7>No hay prioridad.
+8>No hay prioridad.
+9>Insertado en cp.
+10>(1,a).
+11>50.
+12>cp NO está vacia.
+13>cp NO está llena.
+14>Hay prioridad.
+15>Priorizado.
+16>No hay prioridad.
+17>Hay prioridad.
+18>(1,a).
+19>25.
+20>Priorizado.
+21>No hay prioridad.
+22>No hay prioridad.
+23>Hay prioridad.
+24>(1,a).
+25>12.
+26>Priorizado.
+27>No hay prioridad.
+28>No hay prioridad.
+29>No hay prioridad.
+30>Hay prioridad.
+31>(1,a).
+32>6.
+33>Priorizado.
+34>Priorizado.
+35>No hay prioridad.
+36>No hay prioridad.
+37>No hay prioridad.
+38>No hay prioridad.
+39>No hay prioridad.
+40>Hay prioridad.
+41>(1,a).
+42>1.
+43>Despriorizado.
+44>(1,a).
+45>25.
+46>Despriorizado.
+47>(1,a).
+48>37.
+49>Despriorizado.
+50>(1,a).
+51>43.
+52>Eliminado el prioritario de cp.
+53>cp está vacia.
+54>Fin.
